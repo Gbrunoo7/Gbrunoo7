@@ -15,8 +15,8 @@
 I'm a Systems Analysis student at LaSalle University and a teacher turned **Data Analyst**.
 
 As a freelancer, I’ve worked on real-world projects involving:
-- Database Management
-- Data analysis automation through A.I tools in Excel
+- Database Management with MySQL
+- Data analysis with Pandas and automation with A.I tools in Excel
 - Visualization tools through Power BI and Excel
 
 At this moment, I'm looking forward to achieve my first experiences in the data market, utilizing my skills in **Python**, **SQL** and **Power BI**.
@@ -87,4 +87,5 @@ Python, Pygame, MySQL
   <p>
     <img src="https://komarev.com/ghpvc/?username=gbrunoo7&color=0E9443" alt="Profile views" />
   </p>
+
 </div>

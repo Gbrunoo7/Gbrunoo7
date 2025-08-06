@@ -41,7 +41,6 @@ At this moment, I'm looking forward to achieve my first experiences in the data 
 
 ## 📂 Skills
 
-> Skills list
 ```
 [✔] Data analysis, database management and querying with SQL (MySQL)
 [✔] Building Python applications with database integration
@@ -89,5 +88,6 @@ Python, Pygame, MySQL
   </p>
 
 </div>
+
 
 

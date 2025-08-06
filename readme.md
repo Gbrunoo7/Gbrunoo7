@@ -41,7 +41,6 @@ At this moment, I'm looking forward to achieve my first experiences in the data 
 
 ## 📂 Skills
 
-bash
 > Skills list
 ```
 [✔] Data analysis, database management and querying with SQL (MySQL)
@@ -90,4 +89,5 @@ Python, Pygame, MySQL
   </p>
 
 </div>
+
 

@@ -66,6 +66,12 @@ Developed a chess game in Python with MySQL database integration to store matche
 
 Python, Pygame, MySQL
 
+**[Interactive Data Visualization - Salaries in Data](https://github.com/Gbrunoo7/visualizacao-salario-dados-python)**   
+Data analysis project on salaries, job titles, and seniority in the data field, featuring an interactive dashboard for visualizing market trends using interactive metrics and charts. This is part of a Python for data analysis learning project.
+
+Python, Pandas, Matplotlib, Seaborn, Streamlit 
+
+
 ---
 
 </div>
@@ -90,6 +96,7 @@ Python, Pygame, MySQL
   </p>
 
 </div>
+
 
 
 

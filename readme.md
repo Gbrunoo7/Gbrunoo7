@@ -30,6 +30,8 @@ At this moment, I'm looking forward to achieve my first experiences in the data 
 
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg"/>
 <img height="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel"/>
 <img height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
@@ -88,6 +90,7 @@ Python, Pygame, MySQL
   </p>
 
 </div>
+
 
 
 

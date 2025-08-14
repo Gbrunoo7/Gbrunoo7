@@ -17,7 +17,7 @@ I'm a Systems Analysis student at LaSalle University and a teacher turned **Data
 As a freelancer, I’ve worked on real-world projects involving:
 - Database Management with MySQL
 - Data analysis with Pandas and automation with A.I tools in Excel
-- Visualization tools through Power BI and Excel
+- Visualization tools through Excel, Python and Power BI
 
 At this moment, I'm looking forward to achieve my first experiences in the data market, utilizing my skills in **Python**, **SQL** and **Power BI**.
 
@@ -90,6 +90,7 @@ Python, Pygame, MySQL
   </p>
 
 </div>
+
 
 
 

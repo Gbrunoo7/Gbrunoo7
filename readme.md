@@ -47,7 +47,7 @@ At this moment, I'm looking forward to achieve my first experiences in the data 
 [✔] Data analysis, database management and querying with SQL (MySQL)
 [✔] Building Python applications with database integration
 [✔] Developing and documenting small-scale software projects
-[✔] Data visualization and reporting with Excel and Power BI
+[✔] Data visualization and reporting with Excel and Python libraries
 [✔] Linux and Windows terminal
 [✔] Git version control
 ```
@@ -90,6 +90,7 @@ Python, Pygame, MySQL
   </p>
 
 </div>
+
 
 
 

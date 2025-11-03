@@ -1,6 +1,6 @@
 <h1 align="center">👋 Gabriel Bruno</h1>
 <p align="center">
-  <b>Data Analyst | Oracle Certified Associate </b><br>
+  <b>Data Analyst | Oracle Certified Associate | AWS Certified </b><br>
   Skills in Python, A.I Tools for automation and Business Intelligence
 </p>
 
@@ -14,12 +14,13 @@
 
 I'm a Systems Analysis student at LaSalle University and a teacher turned **Data Analyst**.
 
-As a freelancer, I’ve worked on real-world projects involving:
+As a data professional, I’ve worked on real-world projects involving:
 - Database Management with MySQL
 - Data analysis with Pandas and automation with A.I tools in Excel
 - Visualization tools through Excel, Python and Power BI
+- Cloud computing architecture and monitoring, database management in AWS 
 
-At this moment, I'm looking forward to achieve my first experiences in the data market, utilizing my skills in **Python**, **SQL** and **Power BI**.
+At this moment, I'm looking forward to achieve my first experiences in the data market, utilizing my skills in **Python**, **SQL**, **Power BI** and **Cloud Computing**.
 
 ---
 
@@ -28,13 +29,14 @@ At this moment, I'm looking forward to achieve my first experiences in the data 
 
 <div align="center">
 
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg"/>
 <img height="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel"/>
 <img height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
 
 </div>
@@ -96,6 +98,7 @@ Python, Pandas, Matplotlib, Seaborn, Streamlit
   </p>
 
 </div>
+
 
 
 
